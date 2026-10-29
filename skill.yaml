@@ -1,0 +1,5 @@
+name: "muse_terminal_connector"
+title: "Muse Terminal Connector"
+description: "Give Muse a hardened, key-only SSH terminal on the user's own Mac over the Tailscale tunnel, with a one-time user-run installer, live verification and a clean revocation path."
+category: "Work and knowledge"
+include_in_prompt: false
